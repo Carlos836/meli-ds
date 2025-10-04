@@ -1,6 +1,6 @@
 # Meli Data Science Project
 
-Este repositorio contiene el proyecto de ciencia de datos para MercadoLibre.
+Corresponde a un repo de reto técnico para Mercado Libre.
 
 ## Estructura del Proyecto
 
